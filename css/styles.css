@@ -141,7 +141,6 @@ body {
   .main-div {
     display: flex;
     flex-direction: column;
-    margin: 30px;
   }
 
   .desktop-img {
@@ -245,6 +244,7 @@ body {
   position: absolute;
   bottom: 10px;
   left: 150px;
+  display: none;
   }
 }
 
