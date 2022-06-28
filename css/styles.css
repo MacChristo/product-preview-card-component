@@ -28,6 +28,7 @@ body {
   .main-div {
     display: flex;
     flex-direction: row;
+    margin: 30px;
   }
 
   .desktop-img {
@@ -130,17 +131,16 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border-radius: 10px;
   }
 
   .img-div {
     width: 280px;
-    height: 280px;
   }
 
   .main-div {
     display: flex;
     flex-direction: column;
+    margin: 30px;
   }
 
   .desktop-img {
@@ -152,7 +152,6 @@ body {
 
   .mobile-img {
     width: 280px;
-    height: 280px;
     border-radius: 15px 15px 0 0;
   }
 
@@ -243,6 +242,7 @@ body {
   text-align: center;
   position: absolute;
   bottom: 10px;
+    left: 500px;
   }
 }
 
@@ -251,7 +251,7 @@ body {
   text-align: center;
   position: absolute;
   bottom: 10px;
-  left: 500px;
+  left: 300px;
 }
 
 a {
