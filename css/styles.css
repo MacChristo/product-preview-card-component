@@ -9,7 +9,7 @@ body {
   background-color: hsl(30, 38%, 92%);
 }
 
-@media (min-width: 375px) {
+@media (min-width: 380px) {
 
   .parent-container {
     height: 95vh;
